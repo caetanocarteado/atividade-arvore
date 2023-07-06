@@ -10,3 +10,6 @@ Flexibilidade de tamanho: As listas são estruturas de dados dinâmicas, o que s
 Facilidade de iteração: Com listas, é fácil percorrer todos os elementos para realizar cálculos ou operações específicas. Você pode usar loops simples para percorrer as linhas e colunas da matriz ou iterar sobre os elementos da lista, permitindo que você processe e manipule os dados do terreno de maneira eficiente.
 
 Compatibilidade com bibliotecas e algoritmos existentes: Muitas bibliotecas e algoritmos já estão otimizados para trabalhar com matrizes e listas. Ao usar essas estruturas de dados, você pode aproveitar as funcionalidades e benefícios dessas bibliotecas e algoritmos sem a necessidade de adaptações complexas.
+
+Ao executar o programa, o usuário verá uma imagem,
+caso precione T verá a imagem com a triangulação.
