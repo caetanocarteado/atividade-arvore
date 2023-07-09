@@ -1,7 +1,7 @@
 # Geometria
 
 Simplicidade: As listas são estruturas de dados amplamente utilizadas e de fácil compreensão. Elas estão disponíveis em praticamente todas as linguagens de programação e oferecem métodos simples e eficientes para acessar, adicionar e modificar elementos.
-Arvore: Apesar de um pouco mais complexas que as listas, possui um flexibilidade de pode de representação de problemas de natureza recursiva.
+Arvore: Apesar de um pouco mais complexas que as listas, possui um flexibilidade e poder de representação de problemas de natureza recursiva.
 
 Acesso eficiente aos elementos: Com uma matriz ou lista, você pode armazenar os valores de elevação do terreno em uma grade bidimensional, onde cada posição representa uma coordenada no terreno. Isso permite um acesso rápido aos valores de elevação de qualquer ponto no terreno, bastando fornecer as coordenadas desejadas.
 
