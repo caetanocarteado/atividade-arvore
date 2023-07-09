@@ -1,4 +1,4 @@
-# geometria
+# Geometria
 
 Simplicidade: As listas são estruturas de dados amplamente utilizadas e de fácil compreensão. Elas estão disponíveis em praticamente todas as linguagens de programação e oferecem métodos simples e eficientes para acessar, adicionar e modificar elementos.
 Arvore: Apesar de um pouco mais complexas que as listas, possui um flexibilidade de pode de representação de problemas de natureza recursiva.
@@ -12,4 +12,4 @@ Facilidade de iteração: Com listas, é fácil percorrer todos os elementos par
 Compatibilidade com bibliotecas e algoritmos existentes: Muitas bibliotecas e algoritmos já estão otimizados para trabalhar com matrizes e listas. Ao usar essas estruturas de dados, você pode aproveitar as funcionalidades e benefícios dessas bibliotecas e algoritmos sem a necessidade de adaptações complexas.
 
 Ao executar o programa, o usuário verá uma imagem,
-caso precione T verá a imagem com a triangulação.
+caso pressione T verá a imagem com a triangulação.
